@@ -22,11 +22,11 @@ int main() {
     cin >> ducknum;
 
     for (int i = 0; i < ducknum; i++) { 
-        cout << "                  Carlos got a GF " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
-        cout << "                __          __            " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
-        cout << "              <(o )___-   <(o )___-       " << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
-        cout << "               ( .__> /" << endl; // student 3(2) may change this line
-        cout << "                `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << "                  Carlos got a GF " << endl;
+        cout << "                __          __            " << endl;
+        cout << "              <(o )___-   <(o )___-       " << endl;
+        cout << "               ( .__> /" << endl;
+        cout << "                `----' " << endl;
     }
 
     return 0;
