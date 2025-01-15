@@ -24,8 +24,9 @@ int main() {
         cout << "                  Carlos got a GF " << endl;
         cout << "                __          __            " << endl;
         cout << "              <(o )___-   <(o )___-       " << endl;
-        cout << "               ( .__> /" << endl;
-        cout << "                `----' " << endl;
+        cout << "               ( .__> /    ( .__> /" << endl;
+        cout << "                `----'      `----'" << endl;
+        cout << "                hi " << endl;
     }
 
     return 0;
